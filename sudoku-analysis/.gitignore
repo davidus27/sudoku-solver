@@ -2,3 +2,4 @@ logs/
 trained_model
 imgs/
 .vscode/
+/imgs
