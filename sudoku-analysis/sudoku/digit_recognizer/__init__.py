@@ -1,0 +1,2 @@
+from digit_recognizer.CNN import ConvolutionalNeuralNetwork
+from digit_recognizer.KNN import KNearestNeighbor
