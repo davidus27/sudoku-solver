@@ -3,3 +3,8 @@ ipykernel
 opencv-python
 numpy
 matplotlib
+sklearn
+scipy
+ipykernel
+ipython
+dvc
